@@ -29,7 +29,7 @@
 
 ## <p align=center> 7.7 Localización de fallas
 
-  # CAPÍTULO 6: <p align=center> Teoremas de circuitos y conversiones
+  # CAPÍTULO 8: <p align=center> Teoremas de circuitos y conversiones
 ## <p align=center> 8.1 La fuente de voltaje de cd
 
 ## <p align=center> 8.2 La fuente de corriente
