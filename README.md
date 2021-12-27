@@ -37,14 +37,19 @@
 ## <p align=center> 8.3 Conversiones de fuente
  
 ## <p align=center> 8.4 El teorema de superposición
+![8 4](https://user-images.githubusercontent.com/93829962/147499179-c431dd1e-dae5-40c0-b385-9c055312c358.jpeg)
 
 ## <p align=center> 8.5 Theorema de Thevenin
+![8 5](https://user-images.githubusercontent.com/93829962/147499184-d06a6515-1046-4714-ba4c-e132c82ea4ed.jpeg)
 
 ## <p align=center> 8.6 Teorema de Norton
+![8 6](https://user-images.githubusercontent.com/93829962/147499190-ceb449ac-993c-49e0-bdb2-0005ef3d01c8.jpeg)
 
 ## <p align=center> 8.7 Teorema de transferencia de potencia máxima
+![8 7](https://user-images.githubusercontent.com/93829962/147499196-1fbb234e-2666-478d-994b-4ede5da67709.jpeg)
 
 ## <p align=center> 8.8 Conversiones delta a Y (Δ a Y) y Y a delta (Y a Δ)
+![8 8](https://user-images.githubusercontent.com/93829962/147499203-92d02f49-2f7c-4dd4-b32a-6a1660b3c810.jpeg)
 
 ## 3. Explicación y resolución de ejercicios
   ### Explicación
