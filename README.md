@@ -26,7 +26,7 @@
 ## <p align=center> 7.5 Redes en escalera
 
 ## <p align=center> 7.6 El puente Wheatstone
-
+![7 6](https://user-images.githubusercontent.com/93786746/147431610-9ec09f8e-a666-484a-8cb5-38517c0bd9da.png)
 ## <p align=center> 7.7 Localización de fallas
 
   # CAPÍTULO 8: <p align=center> Teoremas de circuitos y conversiones
