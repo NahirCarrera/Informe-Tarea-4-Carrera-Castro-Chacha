@@ -38,6 +38,7 @@
 ![8 2](https://user-images.githubusercontent.com/93786746/147517619-03cd2c1e-5089-449b-973f-0f398701605a.png)
   
 ## <p align=center> 8.3 Conversiones de fuente
+![8 3](https://user-images.githubusercontent.com/93786746/147522444-0a13f999-4b89-4e06-a631-95e76e5934d8.png)
  
 ## <p align=center> 8.4 El teorema de superposición
 ![8 4](https://user-images.githubusercontent.com/93829962/147499179-c431dd1e-dae5-40c0-b385-9c055312c358.jpeg)
