@@ -35,6 +35,7 @@
 ![8 1](https://user-images.githubusercontent.com/93786746/147516796-98303a62-d6bc-4194-ac1e-33542bf3c12a.png)
 
 ## <p align=center> 8.2 La fuente de corriente
+![8 2](https://user-images.githubusercontent.com/93786746/147517619-03cd2c1e-5089-449b-973f-0f398701605a.png)
   
 ## <p align=center> 8.3 Conversiones de fuente
  
