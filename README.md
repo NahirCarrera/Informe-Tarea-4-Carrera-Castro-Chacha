@@ -32,6 +32,7 @@
 
   # CAPÍTULO 8: <p align=center> Teoremas de circuitos y conversiones
 ## <p align=center> 8.1 La fuente de voltaje de cd
+![8 1](https://user-images.githubusercontent.com/93786746/147516796-98303a62-d6bc-4194-ac1e-33542bf3c12a.png)
 
 ## <p align=center> 8.2 La fuente de corriente
   
