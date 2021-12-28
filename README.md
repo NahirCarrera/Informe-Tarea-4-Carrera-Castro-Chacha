@@ -28,6 +28,7 @@
 ## <p align=center> 7.6 El puente Wheatstone
 ![7 6](https://user-images.githubusercontent.com/93786746/147431610-9ec09f8e-a666-484a-8cb5-38517c0bd9da.png)
 ## <p align=center> 7.7 Localización de fallas
+![7-7](https://user-images.githubusercontent.com/93786746/147515747-fbe31d33-f1cb-49a7-959b-18920e24bebe.png)
 
   # CAPÍTULO 8: <p align=center> Teoremas de circuitos y conversiones
 ## <p align=center> 8.1 La fuente de voltaje de cd
