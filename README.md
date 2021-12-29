@@ -58,10 +58,19 @@
 ## 3. Explicación y resolución de ejercicios
   ### Explicación
    Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro _Principios de Circuitos Eléctricos_ correspondientes a los capítulos "Circuitos en serie - paralelo" y "Teoremas de circuitos y conversiones".
-  ### Capítulo 5 - Ejercicios
+  ### Capítulo 7 - Ejercicios
+![37 - cap 7](https://user-images.githubusercontent.com/93786746/147703606-fee78b39-8a1f-4499-b743-60e3e3afc92e.PNG)
+![39 - cap 7 (a)](https://user-images.githubusercontent.com/93786746/147703609-d93ee988-5b7f-48f0-a84c-89250a4959f6.PNG)
+![39 - cap 7 (b-c-d)](https://user-images.githubusercontent.com/93786746/147703614-88175de8-3a58-4354-ba18-1e33dca20641.PNG)
+![41 - cap 7](https://user-images.githubusercontent.com/93786746/147703618-716b85f4-5853-43aa-9a7a-7f13b2ab66cb.PNG)
+![43 - cap 7](https://user-images.githubusercontent.com/93786746/147703628-7fb92463-673d-49b3-933b-f4aba4b704e1.PNG)
+![45 - cap 7](https://user-images.githubusercontent.com/93786746/147703632-7f4084d6-a3ef-41be-819c-521fac3403be.PNG)
+![47, 49 - cap 7](https://user-images.githubusercontent.com/93786746/147703638-1e0fb181-3544-449b-8ec1-db9b3f522579.PNG)
+![51,53(1) - cap 7](https://user-images.githubusercontent.com/93786746/147703645-81095086-c76f-45a5-beff-f75066b3a186.PNG)
+![53 (2) - cap 7](https://user-images.githubusercontent.com/93786746/147703652-049a0757-d723-450e-8543-530fba8d10d7.PNG)
 
 
-  ### Capítulo 6 - Ejercicios
+  ### Capítulo 8 - Ejercicios
 
 
 
