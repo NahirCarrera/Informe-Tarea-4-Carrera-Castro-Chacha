@@ -16,15 +16,15 @@
 ## 2. Resumen
   # CAPÍTULO 7: <p align=center> Circuitos en serie - paralelo
 ## <p align=center> 7.1 Identificación de relaciones en serie
-
+![Subtema 7 1](https://user-images.githubusercontent.com/93829976/147712805-bab1b7c9-f780-4b40-8862-7a74fd760e81.jpeg)
 ## <p align=center> 7.2 Análisis de circuitos resistivos en serie - paralelo
-
+![Subtema 7 2](https://user-images.githubusercontent.com/93829976/147712814-50e0f631-ed5f-4470-a79d-562c2909ddf3.jpeg)
 ## <p align=center> 7.3 Divisores de voltaje con cargas resistivas
-
+![Subtema 7 3](https://user-images.githubusercontent.com/93829976/147712823-98b47c16-a17c-4da0-a194-76fb2abd4121.jpeg)
 ## <p align=center> 7.4 Efecto de carga en un voltímetro
-
+![Subtema 7 4](https://user-images.githubusercontent.com/93829976/147712835-953ba647-e923-4ba3-b50c-e2b820663455.jpeg)
 ## <p align=center> 7.5 Redes en escalera
-
+![Subtema 7 5](https://user-images.githubusercontent.com/93829976/147712840-aecfda67-9e1e-492f-9416-bce977852465.jpeg)
 ## <p align=center> 7.6 El puente Wheatstone
 ![7 6](https://user-images.githubusercontent.com/93786746/147431610-9ec09f8e-a666-484a-8cb5-38517c0bd9da.png)
 ## <p align=center> 7.7 Localización de fallas
