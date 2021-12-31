@@ -8,11 +8,11 @@
 * Chacha Chacha Kevin Alejandro
 ## 1. Objetivos
   ### General: 
-  * A 
+  * Analizar los temas comprendidos entre los capítulos 7 y 8 del libro Principios de Circuitos Eléctricos de T. Floyd empleando mapas mentales y conceptuales para una posterior resolución de los ejercicios impares planteados.
   ### Específicos
-  *  D
-  *  E
-  *  E
+  *  Alcanzar la comprensión teórica de circuitos en serie - paralelo mediante la revisión bibliográfica y de fuentes virtuales con el fin de lograr relacionarla correctamente en resolución de ejercicios prácticos.
+  *  Conocer la importancia de la aplicación de teoremas de circuitos para la resolución de problemas de manera eficiente y eficaz.
+  *  Interpretar correctamente circuitos y redes para adquirir la habilidad de realizar conversiones que faciliten la resolución de ejercicios teóricos y prácticos a futuro.
 ## 2. Resumen
   # CAPÍTULO 7: <p align=center> Circuitos en serie - paralelo
 ## <p align=center> 7.1 Identificación de relaciones en serie
