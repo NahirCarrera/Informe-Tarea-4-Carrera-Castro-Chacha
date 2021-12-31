@@ -71,9 +71,13 @@
 
 
   ### Capítulo 8 - Ejercicios
-
-
-
+![25 (1) - cap 8](https://user-images.githubusercontent.com/93786746/147798871-18e29e52-acfc-401d-844b-5983876eac52.PNG)
+![25 (2), 27 - cap 8](https://user-images.githubusercontent.com/93786746/147798874-dc696aa1-5781-404c-884f-ad13dde7ae6d.PNG)
+![29 - cap 8](https://user-images.githubusercontent.com/93786746/147798876-249684d4-28f2-4ff3-9d53-7462a2f7fc38.PNG)
+![31 - cap 8](https://user-images.githubusercontent.com/93786746/147798879-303d504e-cd13-4bfa-a029-467ef781529f.PNG)
+![33 - cap 8](https://user-images.githubusercontent.com/93786746/147798883-79e04a51-4021-4570-a2fe-2855664bbcc2.PNG)
+![35 - cap 8](https://user-images.githubusercontent.com/93786746/147798887-88ec6526-9e8e-4505-b61b-038ce37ff9a8.PNG)
+  
 ## 4. Video
 
 ## 5. Conclusiones
