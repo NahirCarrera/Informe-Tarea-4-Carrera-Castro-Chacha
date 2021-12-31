@@ -81,6 +81,6 @@
 ## 4. Video
 
 ## 5. Conclusiones
-  * 
+  * Tras el análisis de los temas propuestos nos fue posible establecer la importancia de la revisión teórica para la resolución de ejercicios dentro de la cual nos fue posible identificar distintos teoremas para construir circuitos equivalentes como los son el teorema de superposición que permite encontrar corrientes parciales y simplificar circuitos que requieran de la utilización de multiples fuentes de alimentación, de Norton que reduce circuitos complejos encontrando una corriente y resistencia de Norton, su circuito se forma por dos resistencias y una fuente de corriente todas en paralelo, de Thevenin que basa su procedimiento en encontrar una resistencia y voltaje de Thevenin y su circuito se reduce a uno de dos resistencias y una fuente de voltaje, estas  se encuentran en paralelo, finalmente, el teorema de tranferencia de potencia máxima que permite conocer las circunstancias en las cuales se da este suceso. Todos los teoremas comprenden un procedimiento y propósitos distintos, sin embargo, al mismo tiempo todos pretenden agilizar el proceso de solución. 
 ## 6. Bibliografía
   * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
