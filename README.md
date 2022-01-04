@@ -67,10 +67,11 @@
 <img width="287" alt="Ej 9-Cap 7 p2" src="https://user-images.githubusercontent.com/93829976/148017217-5611bc36-ee76-45cb-9aea-e88c756f2293.PNG">
 <img width="260" alt="Ej 9-Cap 7 p3" src="https://user-images.githubusercontent.com/93829976/148017225-e7853e9c-dcbd-478f-aa5e-6b2d6207f2eb.PNG">
 <img width="334" alt="Ej 11-Cap 7 p1" src="https://user-images.githubusercontent.com/93829976/148017229-a01548c6-422d-4b1d-8f4b-74e2af55923a.PNG">
-<img width="284"<img width="318" alt="Ej 13-Cap 7" src="https://user-images.githubusercontent.com/93829976/148017241-f9e3d306-3dfd-47cf-9764-8b51ef1764cf.PNG">
- alt="Ej 11-Cap 7 p2" src="https://user-images.githubusercontent.com/93829976/148017233-fb19e0a2-b235-4f2a-bebd-75d88047d4ed.PNG">
-<img width="320" alt="Ej 15-Cap 7" src="https://user-images.githubusercontent.com/93829976/148017244-28fd7b43-4ceb-4900-ab3d-c577ab130b48.PNG">
-<img width="321" alt="Ej 17-Cap 7" src="https://user-images.githubusercontent.com/93829976/148017249-cac3c928-7add-4aaa-9a28-be5300b31dd7.PNG">
+<img width="284" alt="Ej 11-Cap 7 p2" src="https://user-images.githubusercontent.com/93829976/148017356-2729fd2e-f2f9-45af-bb84-25c762ca7993.PNG">
+<img width="318" alt="Ej 13-Cap 7" src="https://user-images.githubusercontent.com/93829976/148017364-c5845895-5997-46a2-9c08-5aab2a989402.PNG">
+<img width="320" alt="Ej 15-Cap 7" src="https://user-images.githubusercontent.com/93829976/148017373-a8bf375c-08cc-4e6c-a654-d5bc832f01ee.PNG">
+<img width="321" alt="Ej 17-Cap 7" src="https://user-images.githubusercontent.com/93829976/148017375-23591766-1807-458e-b5b6-cc6033d9e458.PNG">
+
 ![Cap 7 19-23](https://user-images.githubusercontent.com/93829962/148003098-51fbebb3-d04a-4894-bd5f-ef460f1e9077.JPG)
 ![Cap 7 25-29](https://user-images.githubusercontent.com/93829962/148003117-c03d2707-8cd2-4056-af66-2287701e4d25.JPG)
 ![Cap 7 31](https://user-images.githubusercontent.com/93829962/148003134-4d7772e4-f24b-4369-b188-fb0441a4285a.JPG)
