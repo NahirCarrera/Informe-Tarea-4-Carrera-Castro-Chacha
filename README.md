@@ -59,6 +59,18 @@
   ### Explicación
    Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro _Principios de Circuitos Eléctricos_ correspondientes a los capítulos "Circuitos en serie - paralelo" y "Teoremas de circuitos y conversiones".
   ### Capítulo 7 - Ejercicios
+<img width="353" alt="Ej 1-Cap 7" src="https://user-images.githubusercontent.com/93829976/148017187-b10caa99-0c9c-4168-8221-1813fc02b453.PNG">
+<img width="372" alt="Ej 3-Cap 7" src="https://user-images.githubusercontent.com/93829976/148017193-ea041fd1-885c-483c-912b-a28b86e1e5a8.PNG">
+<img width="335" alt="Ej 5-Cap 7" src="https://user-images.githubusercontent.com/93829976/148017200-f2372df9-350c-4014-a80d-a729da381ec3.PNG">
+<img width="314" alt="Ej 7-Cap 7" src="https://user-images.githubusercontent.com/93829976/148017206-313ac762-493f-4660-905c-7ddaff0e1d5a.PNG">
+<img width="347" alt="Ej 9-Cap 7 p1" src="https://user-images.githubusercontent.com/93829976/148017208-ef7077cd-08e7-47aa-b383-6b8ca2147ec4.PNG">
+<img width="287" alt="Ej 9-Cap 7 p2" src="https://user-images.githubusercontent.com/93829976/148017217-5611bc36-ee76-45cb-9aea-e88c756f2293.PNG">
+<img width="260" alt="Ej 9-Cap 7 p3" src="https://user-images.githubusercontent.com/93829976/148017225-e7853e9c-dcbd-478f-aa5e-6b2d6207f2eb.PNG">
+<img width="334" alt="Ej 11-Cap 7 p1" src="https://user-images.githubusercontent.com/93829976/148017229-a01548c6-422d-4b1d-8f4b-74e2af55923a.PNG">
+<img width="284"<img width="318" alt="Ej 13-Cap 7" src="https://user-images.githubusercontent.com/93829976/148017241-f9e3d306-3dfd-47cf-9764-8b51ef1764cf.PNG">
+ alt="Ej 11-Cap 7 p2" src="https://user-images.githubusercontent.com/93829976/148017233-fb19e0a2-b235-4f2a-bebd-75d88047d4ed.PNG">
+<img width="320" alt="Ej 15-Cap 7" src="https://user-images.githubusercontent.com/93829976/148017244-28fd7b43-4ceb-4900-ab3d-c577ab130b48.PNG">
+<img width="321" alt="Ej 17-Cap 7" src="https://user-images.githubusercontent.com/93829976/148017249-cac3c928-7add-4aaa-9a28-be5300b31dd7.PNG">
 ![Cap 7 19-23](https://user-images.githubusercontent.com/93829962/148003098-51fbebb3-d04a-4894-bd5f-ef460f1e9077.JPG)
 ![Cap 7 25-29](https://user-images.githubusercontent.com/93829962/148003117-c03d2707-8cd2-4056-af66-2287701e4d25.JPG)
 ![Cap 7 31](https://user-images.githubusercontent.com/93829962/148003134-4d7772e4-f24b-4369-b188-fb0441a4285a.JPG)
