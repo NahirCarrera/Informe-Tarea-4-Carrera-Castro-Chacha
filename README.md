@@ -89,6 +89,10 @@
 
 
   ### Capítulo 8 - Ejercicios
+ <img width="370" alt="Ej 1-5" src="https://user-images.githubusercontent.com/93829976/148017685-b26f159e-e1e1-4c86-8607-cca0a5a81b10.PNG">
+<img width="395" alt="Ej 7" src="https://user-images.githubusercontent.com/93829976/148017711-a1354aef-cf11-4deb-b26d-891dd2ca537d.PNG">
+<img width="380" alt="Ej 9" src="https://user-images.githubusercontent.com/93829976/148017724-b25b3fba-f2ee-43e1-901f-fc2b9fb1843e.PNG">
+
 ![Cap 8 13-15](https://user-images.githubusercontent.com/93829962/148003172-995ef367-2a5a-4866-a55f-1c3ebef0da3a.JPG)
 ![Cap 8 17-21](https://user-images.githubusercontent.com/93829962/148003175-1ff4ed36-dd1c-48e1-9f6e-2c6584e384cf.JPG)
 ![Cap 8 23](https://user-images.githubusercontent.com/93829962/148003179-712af96f-3356-4c42-af0e-bdc9ed6e02b5.JPG)
