@@ -59,6 +59,10 @@
   ### Explicación
    Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro _Principios de Circuitos Eléctricos_ correspondientes a los capítulos "Circuitos en serie - paralelo" y "Teoremas de circuitos y conversiones".
   ### Capítulo 7 - Ejercicios
+![Cap 7 19-23](https://user-images.githubusercontent.com/93829962/148003098-51fbebb3-d04a-4894-bd5f-ef460f1e9077.JPG)
+![Cap 7 25-29](https://user-images.githubusercontent.com/93829962/148003117-c03d2707-8cd2-4056-af66-2287701e4d25.JPG)
+![Cap 7 31](https://user-images.githubusercontent.com/93829962/148003134-4d7772e4-f24b-4369-b188-fb0441a4285a.JPG)
+![Cap 7 35](https://user-images.githubusercontent.com/93829962/148003142-9e94deae-2151-43b9-9d9c-8e6edaf5dd5b.JPG)
 ![37 - cap 7](https://user-images.githubusercontent.com/93786746/147703606-fee78b39-8a1f-4499-b743-60e3e3afc92e.PNG)
 ![39 - cap 7 (a)](https://user-images.githubusercontent.com/93786746/147703609-d93ee988-5b7f-48f0-a84c-89250a4959f6.PNG)
 ![39 - cap 7 (b-c-d)](https://user-images.githubusercontent.com/93786746/147703614-88175de8-3a58-4354-ba18-1e33dca20641.PNG)
@@ -71,6 +75,9 @@
 
 
   ### Capítulo 8 - Ejercicios
+![Cap 8 13-15](https://user-images.githubusercontent.com/93829962/148003172-995ef367-2a5a-4866-a55f-1c3ebef0da3a.JPG)
+![Cap 8 17-21](https://user-images.githubusercontent.com/93829962/148003175-1ff4ed36-dd1c-48e1-9f6e-2c6584e384cf.JPG)
+![Cap 8 23](https://user-images.githubusercontent.com/93829962/148003179-712af96f-3356-4c42-af0e-bdc9ed6e02b5.JPG)
 ![25 (1) - cap 8](https://user-images.githubusercontent.com/93786746/147798871-18e29e52-acfc-401d-844b-5983876eac52.PNG)
 ![25 (2), 27 - cap 8](https://user-images.githubusercontent.com/93786746/147798874-dc696aa1-5781-404c-884f-ad13dde7ae6d.PNG)
 ![29 - cap 8](https://user-images.githubusercontent.com/93786746/147798876-249684d4-28f2-4ff3-9d53-7462a2f7fc38.PNG)
